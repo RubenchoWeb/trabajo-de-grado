@@ -40,6 +40,10 @@ header nav{
   color: white;
 }
 
+.main-banner{
+  width:100%;
+}
+
 main h2{
   text-align: center;
 }
